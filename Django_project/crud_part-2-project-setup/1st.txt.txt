@@ -1,0 +1,3 @@
+In this part Create and Read part
+Change in html file add_show.html
+and views and create forms.py
