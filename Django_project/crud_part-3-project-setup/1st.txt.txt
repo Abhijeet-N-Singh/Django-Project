@@ -1,0 +1,1 @@
+In  This part We Delete the data change in url.py views.py and add-show html
